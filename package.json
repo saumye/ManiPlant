@@ -1,9 +1,24 @@
 {
-    "name": "maniplant-api",
-    "main": "server.js",
-    "dependencies": {
-        "express": "*",
-        "mongoose": "*",
-        "body-parser": "*"
-    }
+  "name": "Refr-api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Refr - Server Side code -----------------------",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saumye/Refr-Backend.git"
+  },
+  "author": "Pranay Pareek, Vamshi Reddy, Saumye Srivastava",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/saumye/Refr-Backend/issues"
+  },
+  "homepage": "https://github.com/saumye/Refr-Backend"
 }
